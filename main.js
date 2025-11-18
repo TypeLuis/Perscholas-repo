@@ -1,1 +1,1 @@
-const variable = ""   
+const variable = "changes"   
